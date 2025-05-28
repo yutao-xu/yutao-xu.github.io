@@ -2,21 +2,18 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: The Future Sphere
+    role: Programming Instructor
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Taught programming in Python and Java to over 50 students from elementary to high school
+      - Developed students' algorithmic reasoning skills such as abstraction and recursion
+      - Created extensive projects such as alarm clocks, Pong, and Tetris
+    date: Jul. 2023 - Present
+  - title: Stony Brook University, Division of Information Technology
+    role: Student Technician
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Re-image University-owned computers, perform hardware diagnostics tests
+      - Assist users with walk-in issues at reception, create tickets using the University ticketing system
+      - Handle calls from the students and staff and escalate them to the appropriate department
+      - Configure printer, computer, and network connection
+    date: Aug. 2021 - Aug. 2022
