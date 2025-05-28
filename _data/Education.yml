@@ -4,6 +4,5 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Georgia Institute of Technology, College of Computing
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Aug. 2022 - May 2025
+      Bachelor of Science in Computer Science
+    date: May 2025
