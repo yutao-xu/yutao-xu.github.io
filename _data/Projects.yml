@@ -15,8 +15,9 @@ contents:
       - Used design patterns such as singleton, factory, decorator to improve design
       - Utilized agile development strategies and attended scrum meetings
     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  - title: "Machine Unlearning" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
+      - Researched methods to unlearn deleted information on a machine learning algorithm
+      - Attempt to freeze last k rows so retraining is not needed
+      - Compared results with model completely trained with deleted data
     image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
