@@ -7,7 +7,7 @@ contents:
       - Develop a web application to store coffee inventory and purchase history
       - Store and query structured data in MySQL and unstructured data in MongoDB
       - "Allow coffee shop owners to directly buy stock through suppliers"
-    image: "![](/assets/img/img.jpg)"
+    image: "![](/assets/img/img2.png)"
     date: Jan. 2025 - Apr. 2025
   - title: "Hollow Knight Tribute"
     description: 
@@ -15,7 +15,7 @@ contents:
       - Implemented player control, automatic enemy movement, and collision detection
       - Used design patterns such as singleton, factory, decorator to improve design
       - Utilized agile development strategies and attended scrum meetings
-    image: "![](/assets/img/img2.jpg)"
+    image: "![](/assets/img/img.jpg)"
     date: Sep. 2023 - Dec. 2023
   - title: "Machine Unlearning" 
     description: 
