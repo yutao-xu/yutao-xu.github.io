@@ -2,7 +2,7 @@ subject: Contacts
 listing-order: 5
 icon: "/assets/img/phone.svg"
 contents:
-  - title: "(929) 923-6688"
-  - title: "Email: yutao.xu@protonmail.com"
+  - phone: "(929) 923-6688"
+  - title: "yutao.xu@protonmail.com"
   - title: "[LinkedIn](https://linkedin.com/in/yutaoxu)"
   - title: "[GitHub](https://github.com/yutao-xu)"
