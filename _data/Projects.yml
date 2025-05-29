@@ -15,7 +15,7 @@ contents:
       - Implemented player control, automatic enemy movement, and collision detection
       - Used design patterns such as singleton, factory, decorator to improve design
       - Utilized agile development strategies and attended scrum meetings
-    image: "![](/assets/img/img.jpg)"
+    image: "![](/assets/img/img2.jpg)"
     date: Sep. 2023 - Dec. 2023
   - title: "Machine Unlearning" 
     description: 
