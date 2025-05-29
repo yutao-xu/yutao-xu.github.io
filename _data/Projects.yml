@@ -8,6 +8,7 @@ contents:
       - Store and query structured data in MySQL and unstructured data in MongoDB
       - "Allow coffee shop owners to directly buy stock through suppliers"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+    date: Jan. 2025 - Apr. 2025
   - title: "Hollow Knight Tribute"
     description: 
       - Collaborated in a team of five to develop objective seeking game in android
@@ -15,9 +16,10 @@ contents:
       - Used design patterns such as singleton, factory, decorator to improve design
       - Utilized agile development strategies and attended scrum meetings
     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+    date: Sep. 2023 - Dec. 2023
   - title: "Machine Unlearning" 
     description: 
       - Researched methods to unlearn deleted information on a machine learning algorithm
       - Attempt to freeze last k rows so retraining is not needed
       - Compared results with model completely trained with deleted data
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+    date: Sep. 2023 - Dec. 2023
