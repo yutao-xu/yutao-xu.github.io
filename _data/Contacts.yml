@@ -2,7 +2,7 @@ subject: Contacts
 listing-order: 5
 icon: "/assets/img/globe.svg"
 contents:
-  - description: "![devicon](/assets/img/phone.svg) (929) 923-6688"
-  - description: "![devicon](/assets/img/envelope.svg) yutao.xu@protonmail.com"
-  - description: "![devicon](/assets/img/linkedin.svg) [https://linkedin.com/in/yutaoxu](https://linkedin.com/in/yutaoxu)"
-  - description: "![devicon](/assets/img/github.svg) [github.com/yutao-xu](https://github.com/yutao-xu)"
+  - description: "![devicon](/assets/img/phone.svg)   (929) 923-6688"
+  - description: "![devicon](/assets/img/envelope.svg)   yutao.xu@protonmail.com"
+  - description: "![devicon](/assets/img/linkedin.svg)   [linkedin.com/in/yutaoxu](https://linkedin.com/in/yutaoxu)"
+  - description: "![devicon](/assets/img/github.svg)   [github.com/yutao-xu](https://github.com/yutao-xu)"
