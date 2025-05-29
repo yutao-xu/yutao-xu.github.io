@@ -4,9 +4,11 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "OpsCafé"
     description: 
-      - Develop a web application to store coffee inventory and purchase history
-      - Store and query structured data in MySQL and unstructured data in MongoDB
-      - "Allow coffee shop owners to directly buy stock through suppliers"
+      - Collaborated in a team of 4 to develop an enterprise resource planning software for coffee shop and café owners
+      - Allow coffee shop owners to display inventory, purchase stock, record purchases, display customer reviews
+      - Curate and process data such at purchase history and customer reviews
+      - Store and query structured data such as inventory, customers, and supplier information in MySQL and unstructured data such as customer reviews in MongoDB
+      - Create visualization to analyze the most popular coffee items
     image: "![](/assets/img/img2.png)"
     date: Jan. 2025 - Apr. 2025
   - title: "Hollow Knight Tribute"
