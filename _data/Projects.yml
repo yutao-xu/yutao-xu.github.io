@@ -13,15 +13,18 @@ contents:
     date: Jan. 2025 - Apr. 2025
   - title: "Hollow Knight Tribute"
     description: 
-      - Collaborated in a team of five to develop objective seeking game in android
-      - Implemented player control, automatic enemy movement, and collision detection
-      - Used design patterns such as singleton, factory, decorator to improve design
-      - Utilized agile development strategies and attended scrum meetings
+      - Collaborated in a team of 5 to develop objective seeking game in android}
+      - Implemented player control, automatic enemy movement, and collision detection}
+      - Implemented player scoring, leaderboard, and varying enemy speed based on difficulty level}
+      - Used design patterns such as singleton, factory, decorator to improve design} 
+      - Utilized agile development strategies and attended scrum meetings}
     image: "![](/assets/img/img.jpg)"
     date: Sep. 2023 - Dec. 2023
   - title: "Machine Unlearning" 
     description: 
-      - Researched methods to unlearn deleted information on a machine learning algorithm
-      - Attempt to freeze last k rows so retraining is not needed
-      - Compared results with model completely trained with deleted data
+      - Collaborated in a team of 4 to research methods of unlearn trained weights associated with deleted data
+      - Utilized Resnet-18 architecture as the model to predict ages from images
+      - Implemented Selective Synaptic Dampening, Optimizing Last-K Layers, and Forgetting last K layers on the model
+      - Curated and processed data to feed into the model
+      - Compared training with only the retained dataset as the baseline to applying unlearning algorithms on the entire dataset
     date: Sep. 2023 - Dec. 2023

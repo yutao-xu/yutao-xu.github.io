@@ -7,13 +7,16 @@ contents:
     description:
       - Taught programming in Python and Java to over 50 students from elementary to high school
       - Developed students' algorithmic reasoning skills such as abstraction and recursion
-      - Created extensive projects such as alarm clocks, Pong, and Tetris
+      - Used object-oriented principles such as encapsulation, inheritance, and polymorphism to represent real life identities and interactions
+      - Explained data structures to efficiently perform data operations
+      - Explored and implemented algorithms such as depth first search and breath first search
     date: Jul. 2023 - Present
   - title: Stony Brook University, Division of Information Technology
     role: Student Technician
     description: 
-      - Re-image University-owned computers, perform hardware diagnostics tests
-      - Assist users with walk-in issues at reception, create tickets using the University ticketing system
-      - Handle calls from the students and staff and escalate them to the appropriate department
-      - Configure printer, computer, and network connection
+      - Troubleshoot and configure devices such as computers, phone, and printers for the students and faculty members in the university}
+      - Re-image university owned computers and perform hardware diagnostics tests}
+      - Assist users with walk-in issues at reception, create tickets using the University ticketing system}
+      - Handle calls from the students and staff and escalate them to the appropriate department}
+      - Configure printer, computer, and network connection}
     date: Aug. 2021 - Aug. 2022

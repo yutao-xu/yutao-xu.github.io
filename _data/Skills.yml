@@ -7,7 +7,7 @@ contents:
   - title: Frameworks
     description: React, Node.js, Flask
   - title: Developer Tools
-    description: Linux/Unix, Git, Visual Studio Code, IntelliJ
+    description: Linux/Unix, Git, Visual Studio Code, IntelliJ, Android Studio
   - title: Libraries
     description: Pandas, NumPy, PyTorch, Matplotlib
   - title: Courseworks
