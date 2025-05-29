@@ -1,6 +1,6 @@
 subject: Contacts
 listing-order: 5
-icon: "/assets/img/phone.svg"
+icon: "/assets/img/globe.svg"
 contents:
   - description: "![devicon](/assets/img/phone.svg) (929) 923-6688"
   - description: "![devicon](/assets/img/envelope.svg) yutao.xu@protonmail.com"
